@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is David and I'm a aspiring backend developer based in Ukraine</p>
+<p align="left">My name is David and I'm an aspiring backend developer based in Ukraine</p>
 
 ###
 
