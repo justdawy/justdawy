@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning <a href="https://github.com/pallets/flask/">Flask</a><br>🎯 Goals: B2 in English, 1,000 contributions this year<br>🎲 Fun fact: I can wiggle my ears</p>
+<p align="left">📚 I'm currently learning <a href="https://github.com/django/django">Django</a><br>🎯 Goals: B2 in English, 1,000 contributions this year<br>🎲 Fun fact: I can wiggle my ears</p>
 
 ###
 
